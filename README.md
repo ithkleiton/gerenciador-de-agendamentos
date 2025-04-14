@@ -1,21 +1,23 @@
-
 # Gerenciador de Agendamentos
-
-Esse é um projeto em desenvolvimento, em fases iniciais ainda!
-
-
-📌 Visão Geral do Projeto
 
 Este projeto é um sistema de gerenciamento de agendamentos para profissionais autônomos, desenvolvido com Laravel. Permite que usuários criem, visualizem, editem e excluam agendamentos de forma eficiente.
 
-🛠️ Tecnologias Utilizadas
+## 🚀 Funcionalidades
 
-Laravel 10​
+- 📅 Cadastro de novos agendamentos
+- 👀 Visualização da lista de agendamentos
+- ✏️ Edição de agendamentos existentes
+- ❌ Remoção de agendamentos
 
-PHP 8.1​
+## 💻 Tecnologias Utilizadas
 
-MySQL​
+- Laravel 10.x
+- PHP 8.x
+- Blade (template engine)
+- MySQL
+- HTML5, CSS3
+- VS Code
+  
+📅 Status do Projeto
 
-Composer​
-
-VS Code​
+🚧 Em desenvolvimento — atualizado em 14/04/2025
